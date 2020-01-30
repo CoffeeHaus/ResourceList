@@ -14,6 +14,8 @@ This is a personal list to track all of the resources that I have compiled for m
 
 [Hakulukes OSCP guide 3](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
 
+https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html
+
 ####Done
 
 [RE] GREM training 
