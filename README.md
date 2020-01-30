@@ -1,6 +1,8 @@
 # ResourceList
 This is a personal list to track all of the resources that I have compiled for my education
 
+####In progress
+
 
 
 ####To do 
@@ -14,9 +16,13 @@ This is a personal list to track all of the resources that I have compiled for m
 
 [Pen][Hakulukes OSCP guide 3](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
 
-https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html
+[prog][django restful APIs](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html)
 
-https://github.com/arty-hlr/shellcode-practice
+[RE][Arty-hlr shellcode practice](https://github.com/arty-hlr/shellcode-practice)
+
+[Pen][Nii newbie to OSCP](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+
+https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 
 ####Done
 
