@@ -4,6 +4,7 @@ This is a personal list to track all of the resources that I have compiled for m
 
 ####To do 
 
+
 ####Cool, but not for me
 [Hakulukes Hacking w/o Metasploit](https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90)
 [Hakulukes OSCP guide 1](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)
