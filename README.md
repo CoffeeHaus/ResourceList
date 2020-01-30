@@ -33,6 +33,8 @@ https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/
 Enmuration
 https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
 
+https://forum.hackthebox.eu/discussion/1730/a-script-kiddie-s-guide-to-passing-oscp-on-your-first-attempt
+
 
 
 [RE] GREM training -- Done
