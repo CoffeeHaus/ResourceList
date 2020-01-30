@@ -28,6 +28,8 @@ https://github.com/SecWiki/windows-kernel-exploits
 
 https://book.hacktricks.xyz/pentesting-methodology
 
+https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/
+
 Enmuration
 https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
 
