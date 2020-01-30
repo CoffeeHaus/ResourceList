@@ -27,6 +27,21 @@ Feel free to add recomendations
 
 [prog][django restful APIs](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html)
 
+https://github.com/theonlykernel/enumeration/wiki
+
+https://github.com/so87/OSCP-PwK
+
+https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90
+
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
+
+https://github.com/SecWiki/windows-kernel-exploits
+
+https://book.hacktricks.xyz/pentesting-methodology
+
+Enmuration
+https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+
 ####Done
 
 [RE] GREM training 
