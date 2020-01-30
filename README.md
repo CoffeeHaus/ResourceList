@@ -22,7 +22,9 @@ This is a personal list to track all of the resources that I have compiled for m
 
 [Pen][Nii newbie to OSCP](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 
-https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
+[Pen][TJnull's OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
+
+[PEN][sushant747 OSCP](https://sushant747.gitbooks.io/total-oscp-guide/)
 
 ####Done
 
