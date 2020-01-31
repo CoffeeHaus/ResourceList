@@ -14,21 +14,21 @@ Feel free to add recomendations
 
 [Pen][TJnull's OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)-- Todo
 
-[PEN][sushant747 OSCP](https://sushant747.gitbooks.io/total-oscp-guide/)-- Todo
+[Pen][sushant747 OSCP](https://sushant747.gitbooks.io/total-oscp-guide/)-- Todo
 
 [RE][Arty-hlr shellcode practice](https://github.com/arty-hlr/shellcode-practice)-- Todo
 
 [prog][django restful APIs](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html)-- Todo
 
-[PEN][Enumeration](https://github.com/theonlykernel/enumeration/wiki) -- todo
+[pen][Enumeration](https://github.com/theonlykernel/enumeration/wiki) -- todo
 
-[PEN][so87 OSCP](https://github.com/so87/OSCP-PwK)
+[pen][so87 OSCP](https://github.com/so87/OSCP-PwK)
 
 [exp][Windows exploits](https://github.com/SecWiki/windows-kernel-exploits)
 
-[PEN][Pentesting methodology](https://book.hacktricks.xyz/pentesting-methodology)
+[pen][Pentesting methodology](https://book.hacktricks.xyz/pentesting-methodology)
 
-[PEN][OSCP Journey](https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/)
+[pen][OSCP Journey](https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/)
 
 Enmuration
 https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
