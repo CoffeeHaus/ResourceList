@@ -20,15 +20,15 @@ Feel free to add recomendations
 
 [prog][django restful APIs](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html)-- Todo
 
-https://github.com/theonlykernel/enumeration/wiki
+[PEN][Enumeration](https://github.com/theonlykernel/enumeration/wiki) -- todo
 
-https://github.com/so87/OSCP-PwK
+[PEN][so87 OSCP](https://github.com/so87/OSCP-PwK)
 
-https://github.com/SecWiki/windows-kernel-exploits
+[exp][Windows exploits](https://github.com/SecWiki/windows-kernel-exploits)
 
-https://book.hacktricks.xyz/pentesting-methodology
+[PEN][Pentesting methodology](https://book.hacktricks.xyz/pentesting-methodology)
 
-https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/
+[PEN][OSCP Journey](https://www.tripwire.com/state-of-security/security-awareness/oscp-journey/)
 
 Enmuration
 https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
