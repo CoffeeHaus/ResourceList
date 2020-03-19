@@ -41,4 +41,6 @@ https://forum.hackthebox.eu/discussion/1730/a-script-kiddie-s-guide-to-passing-o
 
 [Sec] Security+ class -- Done
 
+[Dev] Scrum Master -- Done
+
 ####Cool, but not for me
