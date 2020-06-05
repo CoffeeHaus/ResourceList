@@ -2,6 +2,8 @@
 This is a personal list to track all of the resources that I have compiled for my education
 Feel free to add recomendations
 
+[Dev][FUD development](https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/)
+
 [Dev][Windows One liner Powershell](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
 
 [Pen][Hakulukes Hacking w/o Metasploit](https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90)-- Todo
