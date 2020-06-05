@@ -1,6 +1,7 @@
 # ResourceList
 This is a personal list to track all of the resources that I have compiled for my education
 Feel free to add recomendations
+[Dev][Mal Dev](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/)
 
 [Dev][FUD development](https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/)
 
