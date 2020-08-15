@@ -1,12 +1,8 @@
 # ResourceList
 This is a personal list to track all of the resources that I have compiled for my education
 Feel free to add recomendations
-[Dev][Mal Dev](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/)
 
-[Dev][FUD development](https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/)
-
-[Dev][Windows One liner Powershell](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
-
+Pentesting 
 [Pen][Hakulukes Hacking w/o Metasploit](https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90)-- Todo
 
 [Pen][Hakulukes OSCP guide 1](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)-- Todo
@@ -20,6 +16,15 @@ Feel free to add recomendations
 [Pen][TJnull's OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)-- Todo
 
 [Pen][sushant747 OSCP](https://sushant747.gitbooks.io/total-oscp-guide/)-- Todo
+
+
+[Dev][Mal Dev](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/)
+
+[Dev][FUD development](https://www.varonis.com/blog/malware-coding-lessons-people-part-learning-write-custom-fud-fully-undetected-malware/)
+
+[Dev][Windows One liner Powershell](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
+
+
 
 [RE][Arty-hlr shellcode practice](https://github.com/arty-hlr/shellcode-practice)-- Todo
 
